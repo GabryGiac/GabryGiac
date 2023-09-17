@@ -7,6 +7,8 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=GabryGiac&icon=2&color=0" alt="VisitCount"></a>
 </div>
 
+---
+
 <div align="center">
 <h3 align="center">💰 You can help me by donating a coffee</h3>
 
@@ -34,9 +36,11 @@
 
 ---
 
-
+<!--
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabry19358) 
+
+  -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
