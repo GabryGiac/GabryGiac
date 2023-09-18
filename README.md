@@ -36,7 +36,7 @@
 ---
   <div align="center">
   <a href="https://www.unict.it/">
-    <img src="https://www.unict.it/sites/default/files/images/sigillo-2014.png" alt="Logo" width="90" height="90">
+    <img src="https://www.unict.it/sites/default/files/images/sigillo-2014.png" alt="Logo" width="100" height="100">
   </a>
 
 <!--
