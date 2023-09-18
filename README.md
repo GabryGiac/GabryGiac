@@ -35,8 +35,8 @@
 
 ---
   <div align="center">
-  <a href="https://www.run2cloud.com/">
-    <img src="https://cyberchallenge.it/media/public/venue/logo/unict.png" alt="Logo" width="80" height="80">
+  <a href="https://www.unict.it/">
+    <img src="https://images.squarespace-cdn.com/content/v1/60056c48dfad4a3649200fc0/1612524418763-3HFOBMTU3MLA65DWOGA3/Logo+UniCT?format=2500w" alt="Logo" width="80" height="80">
   </a>
 
 <!--
