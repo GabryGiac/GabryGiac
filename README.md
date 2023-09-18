@@ -36,7 +36,7 @@
 ---
   <div align="center">
   <a href="https://www.unict.it/">
-    <img src="https://images.squarespace-cdn.com/content/v1/60056c48dfad4a3649200fc0/1612524418763-3HFOBMTU3MLA65DWOGA3/Logo+UniCT?format=2500w" alt="Logo" width="80" height="80">
+    <img src="https://www.unict.it/sites/default/files/images/sigillo-2014.png" alt="Logo" width="80" height="80">
   </a>
 
 <!--
