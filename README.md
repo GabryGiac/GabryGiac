@@ -6,6 +6,11 @@
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=GabryGiac&icon=2&color=0" alt="VisitCount"></a>
 </div>
+ <div align="center">
+  <a href="https://www.unict.it/">
+    <img src="https://www.unict.it/sites/default/files/images/sigillo-2014.png" alt="Logo" width="100" height="100">
+  </a>
+
 
 ---
 
