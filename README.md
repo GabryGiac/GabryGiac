@@ -34,7 +34,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-  <div align="center">
+  <div align="left">
   <a href="https://www.unict.it/">
     <img src="https://www.unict.it/sites/default/files/images/sigillo-2014.png" alt="Logo" width="100" height="100">
   </a>
